@@ -1,4 +1,4 @@
-# Next.js and Tailwind Résumé
+# Next.js and Tailwind Resume
 
 A resume built especially with software professionals in mind. Impress your potential employer with a beautiful and incredibly fast resume website, or generate a PDF for email and print.
 

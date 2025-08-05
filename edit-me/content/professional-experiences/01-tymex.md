@@ -20,7 +20,7 @@ The [TymeX](https://vietnam.tyme.com/) is the technology and product development
 - Automated **disaster recovery (DR) drills** every 6 months to validate system resilience and recovery readiness.
 - Designed **reusable and overridable infrastructure modules** for easy maintenance and customization by development teams.
 - Maintained **high-availability and fault-tolerant systems**, ensuring continuous service uptime and reliability.
-### 💰 Cost Optimization
+### 💰 **Cost Optimization**
 - Analyzed cloud cost reports and identified unused or underutilized resources, implementing cleanup strategies that resulted in **monthly savings exceeding $10,000**.
 - Developed automated jobs to archive application logs to Amazon S3, ensuring efficient storage and long-term retention.
 - Implemented daily automation to stop and start AWS resources in non-production environments, achieving cost savings of up to 30% through optimized resource utilization.

@@ -1,7 +1,7 @@
 ---
-achievement: Bachelor of Science, Journalism
-organization: Mentopolis University
-completionYear: 2016
+achievement: Bachelor of Engineering, Computer Engineering
+organization: Ho Chi Minh City University of Technology
+completionYear: 2019
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultrices in iaculis nunc sed augue lacus viverra vitae congue. Neque viverra justo nec ultrices. Urna nunc id cursus metus aliquam eleifend mi in nulla. Proin sagittis nisl rhoncus mattis rhoncus urna neque viverra. Tristique senectus et netus et malesuada fames ac.
+Ho Chi Minh City University of Technology (**Bách Khoa University**) typically refers to one of Vietnam’s top engineering and technology institutions.

@@ -2,7 +2,7 @@ import { resumeConfig } from '@config/resume-config';
 import {
   PrivateField,
   ProfessionalExperience,
-  // additionalInfo,
+//   additionalInfo,
   allSkills,
   personal,
 } from '@content';
@@ -114,8 +114,8 @@ const styles = StyleSheet.create({
     fontSize: fontSizes.xxs,
     justifyContent: 'flex-start',
     lineHeight: 1.3,
-    paddingTop: 30, // Padding at the top of each page
-    paddingBottom: 30, // Padding at the bottom of each page
+    padding: 300,      // Add this line
+    paddingBottom: 300,   // Add this line
   },
   sidebar: {
     alignSelf: 'stretch',
@@ -279,6 +279,7 @@ function ProfessionalExperienceDetails({
 
 export default function PDF({ privateInformation }: PDFProperties): ReactNode {
   const year = new Date().getFullYear();
+
   return (
     <Document
       author={fullName}

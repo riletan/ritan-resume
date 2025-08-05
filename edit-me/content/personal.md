@@ -1,8 +1,12 @@
 ---
-givenName: Stacy
-familyName: Fakename
-title: Editor
-location: Cortex City, Mentopolis
+givenName: Ri
+familyName: Le Tan
+title: DevOps/Platform Engineer
+location: Ho Chi Minh, Viet Nam
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultrices in iaculis nunc sed augue lacus viverra vitae congue. Neque viverra [justo nec ultrices](#). Urna nunc id cursus metus aliquam eleifend mi in nulla. Proin sagittis nisl rhoncus mattis rhoncus urna neque viverra.
+<!-- With over five years of experience in software development and system operations, I specialize in building high-performance applications that scale to serve millions of users. My approach is rooted in best practices, ensuring robust, maintainable, and efficient solutions across the development lifecycle.
+Armed with a Bachelor's degree in Computer Engineering, I bring strong analytical and troubleshooting skills to every challenge. Whether it's debugging complex systems or optimizing performance, I thrive on solving problems that matter.
+As a collaborative team player, I believe that great software is built not just with code, but through shared vision and effective communication. I'm passionate about creating technology that makes a real impact—and doing it with a team that values excellence. -->
+
+I'm a devops/platform engineer with 6+ years of experience in development and system operations, supporting to build scalable applications for millions of users. With a Bachelor's in Computer Engineering, I focus on best practices, strong troubleshooting, and teamwork to deliver reliable, high-impact solutions.

@@ -114,8 +114,6 @@ const styles = StyleSheet.create({
     fontSize: fontSizes.xxs,
     justifyContent: 'flex-start',
     lineHeight: 1.3,
-    paddingTop: 30, // Padding at the top of each page
-    paddingBottom: 30, // Padding at the bottom of each page
   },
   sidebar: {
     alignSelf: 'stretch',
@@ -279,6 +277,7 @@ function ProfessionalExperienceDetails({
 
 export default function PDF({ privateInformation }: PDFProperties): ReactNode {
   const year = new Date().getFullYear();
+
   return (
     <Document
       author={fullName}

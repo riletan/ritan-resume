@@ -3,7 +3,7 @@ import { notFound } from 'next/navigation';
 import { ReactNode } from 'react';
 import AboutMe from 'src/components/articles/about-me';
 import Achievements from 'src/components/articles/achievements';
-import AdditionalInfo from 'src/components/articles/additional-info';
+// import and from 'src/components/articles/and';
 import ContactInformation from 'src/components/articles/contact-info';
 import Professional from 'src/components/articles/professional';
 import Skills from 'src/components/articles/skills';
@@ -33,7 +33,8 @@ export default async function Page(
 
       <Professional />
       <Achievements />
-      <AdditionalInfo />
     </div>
   );
 }
+
+//{/* <and /> */}

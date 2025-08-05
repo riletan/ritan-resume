@@ -28,7 +28,7 @@ export const generateMetadata = async (): Promise<Metadata> => {
   const baseURL = `${protocol}://${host ?? deployURL ?? ''}`;
   const siteName = `${fullName} Professional Résumé`;
   const title = `Résumé | ${fullName}`;
-  const description = `Professional résumé for ${fullName}.`;
+  const description = `Professional resume for ${fullName}.`;
 
   return {
     applicationName: siteName,

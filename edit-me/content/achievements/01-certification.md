@@ -1,7 +1,6 @@
 ---
-achievement: Switchboard Key Holder
-organization: Cerebell Pacific
-completionYear: 2015
+achievement: AWS Certified DevOps Engineer – Professional
+organization: AWS
+completionYear: 2022
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultrices in iaculis nunc sed augue lacus viverra vitae congue. Neque viverra justo nec ultrices. Urna nunc id cursus metus aliquam eleifend mi in nulla. Proin sagittis nisl rhoncus mattis rhoncus urna neque viverra. Tristique senectus et netus et malesuada fames ac.
+The [AWS Certified DevOps Engineer – Professional](https://www.credly.com/badges/cf66f744-ddf9-4d25-8224-e050a2366cb4/linked_in_profile) certification is a highly respected credential that validates your advanced technical expertise in deploying, operating, and managing distributed applications on the AWS platform.

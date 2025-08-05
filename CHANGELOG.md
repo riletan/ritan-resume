@@ -69,7 +69,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 
 - Replaced [Radix UI Colors](https://www.radix-ui.com/colors) with [Strum Colors](https://strum-colors.netlify.app/colors)
-  - These color systems are a 1-to-1 match in terms of how they're used and what colors are available, but the résumé config file does need to change slightly
+  - These color systems are a 1-to-1 match in terms of how they're used and what colors are available, but the resume config file does need to change slightly
   - The colors of your chosen scale will be different with the new system
 - Use TS file for Next.js config
 - Dependency updates
@@ -88,7 +88,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Upgrade to [Tailwind 4.0 Beta](https://tailwindcss.com/docs/v4-beta)
   - Most Tailwind config has moved from `tailwind.config.ts` to CSS files
-  - This change is 100% compatible with existing résumé config, but if you have modified Tailwind config for the project you will need to migrate your custom configurations to v4
+  - This change is 100% compatible with existing resume config, but if you have modified Tailwind config for the project you will need to migrate your custom configurations to v4
 - Other dependency updates
 - Stars display in accent color in both color modes
 
@@ -275,7 +275,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Re-exported custom fonts
   - A [copy/paste issue](https://github.com/diegomura/react-pdf/pull/2408) when using fonts hasn't been fixed upstream, but running my font files through a glyph editor and re-exporting seems to fix the issue
-  - This will at least solve the issue for new users of the résumé builder, and we'll see if the upstream issue gets fixed eventually
+  - This will at least solve the issue for new users of the resume builder, and we'll see if the upstream issue gets fixed eventually
 
 ## [4.3.0] - 2023-10-26
 
@@ -604,8 +604,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Uses custom Vanilla Extract styles and components based on an early version of the Strum Design System
 - Non-PDF styles now support dark mode
 - Defaults to a Markdown integration as the CMS
-  - Files in the project pull data for the résumé
-  - Requires a code change to edit the résumé
+  - Files in the project pull data for the resume
+  - Requires a code change to edit the resume
 - Uses [OG Impact](https://ogimpact.sh/) to dynamically generate OG share images
 
 ### Removed

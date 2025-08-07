@@ -2,8 +2,8 @@
 organization: VNG
 titles:
   - title: System Operation Engineer
-    startDate: October 2019
-    endDate: April 2018
+    startDate: October 2018
+    endDate: April 2019
 ---
 
 [VNG Corporation](https://vng.com.vn/) is a leading Vietnamese technology company founded in 2004, originally known as VinaGame. It specializes in digital content, online entertainment, social networking, e-commerce, and cloud service.
